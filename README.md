@@ -16,7 +16,7 @@ iguais a zero, caso contr&aacute;rio dever&aacute; enviar uma mensagem de erro.<
 clientes com saldo negativo, listar os clientes que tem saldo acima de um determinado<br>
 valor, listar todas as contas, listar os tr&ecirc;s maiores saldos de conta corrente.<br>
 &#9679; Ao t&eacute;rmino, o programa dever&aacute; gravar os dados atualizados no arquivo em disco.<br>
-O programa deve implementar classe(s), m&eacute;todos est&aacute;ticos, gets/sets, m&eacute;todos est&aacute;ticos,<br>
+O programa deve implementar classe(s), m&eacute;todos est&aacute;ticos, gets/sets,<br>
 vari&aacute;veis locais, passagem de par&acirc;metros, vetores e todas as boas pr&aacute;ticas apresentadas<br>
 durante o curso.
 
@@ -27,6 +27,7 @@ Você pode usar qualquer linguagem de programação para o desafio. Abaixo a lis
 - Ruby
 - C++
 - PHP
+- JAVA
 
 Você pode usar qualquer _framework_. Se a sua escolha for por um _framework_ que resulte em _boilerplate code_, por favor assinale no README qual pedaço de código foi escrito por você. Quanto mais código feito por você, mais conteúdo teremos para avaliar.
 

@@ -1,7 +1,5 @@
 # <img src="https://avatars1.githubusercontent.com/u/42723118?s=200&v=4" alt="CA" width="24" /> Desafio Papa
 
-Desenvolvimento Java - Trabalho Final<br>
-Prof. LP Maia<br>
 Fa&ccedil;a um programa que leia um arquivo texto de contas corrente com o seguintes campos:<br>
 n&uacute;mero da conta, nome do cliente, saldo da conta corrente e saldo da poupan&ccedil;a. Depois o<br>
 programa deve exibir um menu com as seguintes op&ccedil;&otilde;es: inclus&atilde;o de cliente, altera&ccedil;&atilde;o de<br>
@@ -59,7 +57,7 @@ Quaisquer dúvidas que você venha a ter, consulte as [_issues_](https://github.
 Boa sorte! ;)
 
 <p align="center">
-  <img src="ca.jpg" alt="Challange accepted" />
+  <img src="https://github.com/cybers-athletic/challenge-bravo/blob/master/ca.jpg?raw=true" alt="Challange accepted" />
 </p>
 
 ## Créditos
